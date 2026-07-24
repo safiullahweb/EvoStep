@@ -78,3 +78,13 @@ For freelance projects and custom landing pages, feel free to contact me through
 
 Please consider giving it a ⭐ on GitHub.
 https://safiullahweb.github.io/EvoStep/
+
+## 📸 Preview
+
+### Desktop
+
+![Desktop Preview](desktop-preview.png)
+
+### Mobile
+
+![Mobile Preview](mobile-preview.png)
