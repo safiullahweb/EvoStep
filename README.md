@@ -2,6 +2,14 @@
 
 A modern and fully responsive shoe landing page built using **HTML5** and **CSS3**. This project was created to showcase clean front-end development, responsive layouts, and modern UI design.
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 ## 🌐 Live Demo
 
 https://safiullahweb.github.io/EvoStep/
