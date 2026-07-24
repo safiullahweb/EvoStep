@@ -70,7 +70,7 @@ Need a landing page for your business or brand?
 
 ## 📧 Contact
 
-For freelance projects and custom landing pages, feel free to contact me through GitHub or Fiverr.
+For freelance projects and custom landing pages, feel free to contact me through GitHub.
 
 ---
 
