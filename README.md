@@ -1,6 +1,39 @@
-# 👟 EvoStep - Responsive Shoe Landing Page
+# 👟 EvoStep
 
-A modern and fully responsive shoe landing page built using **HTML5** and **CSS3**. This project was created to showcase clean front-end development, responsive layouts, and modern UI design.
+<p align="center">
+  <strong>Modern Responsive Shoe Landing Page</strong>
+</p>
+
+<p align="center">
+  A clean, modern and fully responsive shoe landing page built with HTML5 and CSS3.
+</p>
+
+<p align="center">
+  <a href="https://safiullahweb.github.io/EvoStep/">
+    🌐 Live Demo
+  </a>
+</p>
+
+---
+
+## ✨ Features
+
+- 📱 Fully responsive design
+- 🖥️ Desktop, tablet and mobile layouts
+- 🧭 Fixed responsive navigation
+- 🍔 Mobile hamburger menu
+- 👟 Modern hero section
+- 🛍️ Product showcase
+- 🆕 New Drop section
+- ⭐ Customer reviews
+- 📩 Contact section
+- ✨ Hover effects and animations
+- 🎨 Modern visual design
+- ⚡ Lightweight HTML & CSS implementation
+
+---
+
+## 🛠️ Built With
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -8,91 +41,93 @@ A modern and fully responsive shoe landing page built using **HTML5** and **CSS3
 
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
 
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-## 🌐 Live Demo
-
-https://safiullahweb.github.io/EvoStep/
-
 ---
 
-## ✨ Features
+## 📸 Preview
 
-- Modern UI Design
-- Fully Responsive (Desktop, Tablet & Mobile)
-- Fixed Navigation Bar
-- Mobile Hamburger Menu
-- Hero Section
-- Featured Products
-- New Drop Section
-- Customer Reviews
-- Contact Section
-- Smooth Hover Effects
-- Clean HTML & CSS Code
+### 🖥️ Desktop
 
----
+![EvoStep Desktop Preview](desktop-preview.png)
 
-## 🛠️ Built With
+### 📱 Mobile
 
-- HTML5
-- CSS3
-- Font Awesome
-
----
-
-## 📱 Responsive
-
-This project is optimized for:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
+![EvoStep Mobile Preview](mobile-preview.png)
 
 ---
 
 ## 📂 Project Structure
 
+```text
+EvoStep/
+│
+├── index.html
+├── evoshoes1.css
+├── desktop-preview.png
+├── mobile-preview.png
+│
+└── images/
+    ├── logo
+    ├── shoes
+    └── other assets
 ```
-EvoStep
-│── index.html
-│── evoshoes1.css
-│── images/
-```
 
 ---
 
-## 🎯 Purpose
+## 🌐 Live Demo
 
-This project was developed as a portfolio template and demonstrates modern landing page design using only HTML and CSS.
+Visit the live website:
 
----
-
-## 💼 Available for Custom Work
-
-Need a landing page for your business or brand?
-
-**I can build a modern, responsive landing page tailored to your business requirements.**
+**https://safiullahweb.github.io/EvoStep/**
 
 ---
 
-## 📧 Contact
+## 🎯 Project Purpose
 
-For freelance projects and custom landing pages, feel free to contact me through GitHub.
+EvoStep was created as a front-end portfolio project to demonstrate modern landing page design, responsive layouts, navigation, product presentation and clean HTML/CSS implementation.
 
 ---
 
-## ⭐ If you like this project
+## 💼 Custom Landing Pages
 
-Please consider giving it a ⭐ on GitHub.
-https://safiullahweb.github.io/EvoStep/
+Need a landing page for your own business or brand?
 
-## 📸 Preview
+> **I can build a modern, responsive landing page tailored to your business requirements.**
 
-### Desktop
+Custom designs can be created for:
 
-![Desktop Preview](desktop-preview.png)
+- 👟 Shoe & Fashion Brands
+- ☕ Coffee Shops
+- 🍕 Restaurants
+- 🏋️ Gyms & Fitness Brands
+- 🏠 Real Estate
+- 💼 Small Businesses
+- 🚀 Startups
 
-### Mobile
+---
 
-![Mobile Preview](mobile-preview.png)
+## 📱 Responsive Design
+
+The website has been designed to work across different screen sizes, including:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+---
+
+## 📄 License
+
+This project is created as a portfolio and template project.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving the repository a ⭐ on GitHub.
+
+---
+
+<p align="center">
+  Built with ❤️ using HTML & CSS
+</p>
